@@ -8,8 +8,8 @@ Taking an optimistic approach, it can be expected that this repository will be f
 
 Example code files may be either jupyter notebooks or python scripts (.py files). The following naming convention should be applied all examples found in the toplevel directory:
 
-ex_<YYYYMMDD>_<user>_<short_string_describing_what_this_is_about>.ipynb
+*ex_YYYYMMDD_user_short_string_describing_what_this_is_about.ipynb*
 
 For instance
 
-ex_20200121_jonasg_check_access_lustre.ipynb
+*ex_20200121_jonasg_check_access_lustre.ipynb*
