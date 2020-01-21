@@ -13,3 +13,11 @@ Example code files may be either jupyter notebooks or python scripts (.py files)
 For instance
 
 *ex_20200121_jonasg_check_access_lustre.ipynb*
+
+## Official pyaerocom tutorials
+
+This repository is for short examples to illustrate dedicated tasks. You may also want to have a look at the official pyaerocom tutorials which are also provided in the form of jupyter notebooks and are stored in the following GitHub repository:
+
+https://github.com/metno/pyaerocom-tutorials
+
+These tutorials are also displayed on the [pyaerocom website](https://pyaerocom.met.no/tutorials.html).
